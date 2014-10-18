@@ -673,7 +673,7 @@ Low: Performance over quality. Ugliest setting.</value>
     <value>中将</value>
   </data>
   <data name="Settings_Notifications" xml:space="preserve">
-    <value>通信設定</value>
+    <value>通知設定</value>
   </data>
   <data name="Settings_Notifications_AheadOfTime" xml:space="preserve">
     <value>通知を早める：</value>
