@@ -601,7 +601,7 @@
     <JP-Name>艦隊大整備！</JP-Name>
     <TR-Name>艦隊大整備！</TR-Name>
     <JP-Detail>各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！</JP-Detail>
-    <TR-Detail>Repair 5 ships.</TR-Detail>
+    <TR-Detail>各舰队实施大规模整备！「入渠」维护5艘以上的舰船！</TR-Detail>
   </Quest>
   <Quest>
     <ID>E4</ID>
